@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<header>
+		<title>Unit Two Project</title>
+	</header>
+	<body>
+		<h1>Desiree Hoolahan Unit Two Project</h1>
+
+		<h2>Which two websites are you most inspired by?</h2>
+		<p>This is not an easy question, it’s like asking an enthusiast, ‘what is your favorite automobile?’ In retort: Well which category? As my favorite varies by Classic, Muscle, American, Exotic, Luxury, 4x4, Import, 4-12 cylinder, etc. That said, I am most inspired by Facebook (social interactions,) YouTube (content sharing,) Wikipedia (reference,) BBC (news,) Craigslist (active community,) Angie’s List (reviews,) IMDB (entertainment,) and various other sites. I am inspired by these sites because of their ability to produce revenue, popularity, features and usability. I will pick BBC and Wikipedia for the purpose of this exercise.</p>
+
+		<h2>How do they exhibit effective use of space, size or balance?</h2>
+		<p><a href="http://www.wikipedia.org"target="_blank">Wikipedia:</a>Text heavy yet balanced. Focus is barely notable within text heavy areas except for the use of blue hyperlinks. Navigation fields stand out on the left side of the site using blue hyperlinks. Search bar of content on the site is to the top right. Categories of articles are highlighted with hyperlink text within a header formatted content field. Margins are even and negative space is scarce. The logo is the most animated portion of the site to the top left.<br><a href="http://www.bbc.com"target="blank>BCC:</a> Negative space is not balanced underneath a neat header formatted section including category tabs. Very photo heavy, no titles exist outside of a photo until the user scrolls to reveal a consistent right side column including ads and large focal points, with two columns of equal size containing article titles and photos to the left of the page. There are equal amounts of negative space in the margins and content flow changes dramatically below the fold.</p>
+
+		<h2>What makes them similar or different?</h2>
+		<p>Similarities: These are visually opposite sites, I cannot think of a similarity in design besides the logo in the top left and the search bar in the far right.<br>Differences: Wikipedia is user provided and managed content in a text heavy format. Very reference themed with very few visual stimulations until an article is selected. Users likely have an idea of what they are looking for pre-arrival when using Wikipedia. BBC News uses visual focal points to drive the user to content. A user can easily entertain themselves just scrolling through titles on BBC without leaving the home page.</p>
+
+		<h2>Thumbnail Skeches</h2>
+
+
+
+
+	</body>
+</html>
